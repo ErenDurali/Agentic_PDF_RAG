@@ -1,5 +1,5 @@
 # Agentic RAG for PDF Processing
-This project is an Agentic Retrieval-Augmented Generation (RAG) system that processes PDFs using Gemini as the model, LangChain for agent-based orchestration, and ChromaDB for vector storage. The project is built with GitHub Copilot assistance.
+This project is an Agentic Retrieval-Augmented Generation (RAG) system that processes PDFs using Gemini as the model, LangChain for agent-based orchestration, and ChromaDB for vector storage and Streamlit for deploying an interactive web application. The project is built with GitHub Copilot assistance.
 
 ## Features
 - Extracts relevant information from PDFs.
