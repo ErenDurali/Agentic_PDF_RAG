@@ -17,3 +17,7 @@ This project is an Agentic Retrieval-Augmented Generation (RAG) system that proc
 - Add PDFs to the data/ folder.
 - Run the script to process and query them.
 - Customize the agent’s behavior in agentic-rag.py.
+## References
+This project was inspired and guided by the following resource:
+
+- An Improved Langchain RAG Tutorial (v2) by pixegami: This tutorial provided valuable insights into implementing a Retrieval-Augmented Generation system using LangChain and local LLMs.
