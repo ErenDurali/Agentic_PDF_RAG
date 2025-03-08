@@ -1,0 +1,12 @@
+streamlit
+PyPDF2
+pytesseract
+Pillow
+pdf2image
+nltk
+sumy
+langchain
+pypdf
+pytest
+langchain-community
+chromadb
